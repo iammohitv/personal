@@ -1,0 +1,29 @@
+
+#nav-id1{
+    position: relative;
+}
+#nav-id2{
+    position: relative;
+    background-color: rgb(117, 116, 202);
+}
+#search-navbar1{
+    width:150%;
+}
+.form-search-style{
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #e4e8ec;
+    background-color: #b2ceee;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s;   
+}
+.navbar-dark{
+    background-color: rgb(108, 199, 161);
+}
+#loginmodal-button{
+    
+}
