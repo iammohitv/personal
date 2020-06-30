@@ -23,3 +23,6 @@ $(document).ready(function(){
     $("#reserve-table-modal").modal();
   });
 });
+$(document).ready(function(){
+$('[data-toggle="tooltip"]').tooltip();
+        });

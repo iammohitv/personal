@@ -4,8 +4,8 @@
 }
 #nav-id2{
     position: relative;
-    background-color: rgb(117, 116, 202);
-    line-height: 0.8;
+    background-color: rgb(54, 54, 58);
+    line-height: 0.5;
 }
 #search-navbar1{
     width:150%;
@@ -15,8 +15,8 @@
     font-size: 1rem;
     font-weight: 400;
     line-height: 1.5;
-    color: #e4e8ec;
-    background-color: #b2ceee;
+    color: #000000;
+    background-color: #b6bbc0;
     background-clip: padding-box;
     border: 1px solid #ced4da;
     border-radius: .25rem;
@@ -27,4 +27,20 @@
 }
 #loginmodal-button{
     
+}
+    .carousel .carousel-item {
+      height: 300px; }
+      .carousel .carousel-item img {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-width: 100%;
+        min-height: 100%; 
+    }
+    .line-height-3{
+    line-height: 3;
+    }
+.img-fluid{
+    min-width: 100%;
+    min-height: 100%;    
 }
